@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋 I'm Vaishnavi P B  
 
-<!--
-**int-main-vaish/int-main-vaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Engineering Student  
+💻 Learning programming and development step by step  
+🌱 Currently exploring Git, GitHub, Python, Data analysis and more to come...  
 
-Here are some ideas to get you started:
+### 🛠️ What I’m Learning
+- Python  
+- Git & GitHub  
+- Basics of data analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Build small projects consistently  
+- Improve problem-solving skills  
+- Become confident in coding  
+
+### 📌 Projects
+- Hello GitHub – my first GitHub repository 🚀  
+(More coming soon 😊)
+
+✨ Learning in public and improving every day ✨
